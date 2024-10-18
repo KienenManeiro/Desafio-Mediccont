@@ -1,0 +1,6 @@
+[submodule "Desafio-Mediccont-Backend"]
+	path = Desafio-Mediccont-Backend
+	url = https://github.com/KienenManeiro/Desafio-Mediccont-Backend.git
+[submodule "Desafio-Mediccont-Frontend"]
+	path = Desafio-Mediccont-Frontend
+	url = https://github.com/KienenManeiro/Desafio-Mediccont-Frontend.git
